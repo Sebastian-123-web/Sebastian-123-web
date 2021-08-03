@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rodrigo Bañagasta Flores
 - 👀 I’m interested in the world of Web Development and Design
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js, basic level
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sebastian09_26@hotmail.com
 
 <!---
 Sebastian-123-web/Sebastian-123-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
